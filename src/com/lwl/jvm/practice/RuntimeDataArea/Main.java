@@ -1,4 +1,4 @@
-package com.lwl.jvm.practice.runtime_data_area;
+package com.lwl.jvm.practice.RuntimeDataArea;
 
 /**
  * @author liwenlong
